@@ -1,0 +1,25 @@
+{
+  "envelopes": [
+    {
+      "id": 1,
+      "opened": false,
+      "cents": 0,
+      "revealed": false,
+      "message": "Boa sorte!"
+    },
+    {
+      "id": 2,
+      "opened": false,
+      "cents": 0,
+      "revealed": false,
+      "message": "Abra com carinho."
+    },
+    {
+      "id": 3,
+      "opened": false,
+      "cents": 0,
+      "revealed": false,
+      "message": "Surpresa!"
+    }
+  ]
+}
