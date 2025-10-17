@@ -1,0 +1,31 @@
+    <string name="open_prototype">Open Prototype</string>
+    <string name="open_wechat_mod">Open WeChat Mod (Mock)</string>
+    <string name="open_predictor">Open Red Envelope Predictor</string>
+
+    <string name="prototype_ready">Prototype screen ready. Replace with your modified feature here.</string>
+    <string name="prototype_ready">Monte uma prévia de mensagem personalizada para testar no WeChat.</string>
+    <string name="prototype_recipient_hint">Nome do contato ou grupo</string>
+    <string name="prototype_message_hint">Mensagem que você quer enviar</string>
+    <string name="prototype_timestamp_label">Adicionar carimbo de data/hora simbólico</string>
+    <string name="prototype_preview_label">Pré-visualização pronta para compartilhar</string>
+    <string name="prototype_copy_button">Copiar texto</string>
+    <string name="prototype_share_button">Compartilhar…</string>
+    <string name="prototype_share_title">Escolha o app para compartilhar</string>
+    <string name="prototype_copy_toast">Prévia copiada para a área de transferência</string>
+    <string name="prototype_copy_error">Não foi possível acessar a área de transferência</string>
+    <string name="prototype_share_error">Nenhum app disponível para compartilhar</string>
+    <string name="prototype_helper_notice">Use a mensagem gerada para testar fluxos no WeChat. O Companion não altera o aplicativo oficial.</string>
+    <string name="prototype_default_recipient">amigo</string>
+    <string name="prototype_default_message">Enviei uma prévia simbólica. Personalize o texto antes de compartilhar.</string>
+
+    <string name="wechat_mod_desc">This toggle simulates a WeChat mod state. It does not modify WeChat.</string>
+    <string name="enable_mock">Enable mock feature</string>
+    <string name="mock_result">Mock is %1$s</string>
+    <string name="mock_result_placeholder">Mock is OFF</string>
+
+    <string name="sender_hint">Sender name (symbolic)</string>
+    <string name="predict">Predict</string>
+    <string name="red_envelope_note">This is a symbolic predictor (for fun). It does not inspect WeChat.</string>
+    <string name="red_envelope_result">Predicted value: %1$s</string>
+    <string name="red_envelope_result_placeholder">Predicted value will appear here</string>
+</resources>
